@@ -29,7 +29,6 @@
 - [Today Signal](https://github.com/bsjuuny/today-signal) — 기관·외국인 수급과 거래량 기반 국내 주식 관찰 신호
 - [FX Signal](https://github.com/bsjuuny/forex-signal) — 기술적 지표 기반 주요 통화 환율 신호 대시보드
 - [Market Checker](https://github.com/bsjuuny/market-checker) — 해외·거시 지표 기반 국내 증시 방향 체크리스트
-- [Tech Blog](https://github.com/bsjuuny/techblog) — 프론트엔드 기술과 프로젝트 경험 기록
 
 ## Tech Stack
 
@@ -37,6 +36,5 @@
 
 ## Contact
 
-- [Tech Blog](https://bsjuuny.github.io/techblog/)
 - [About & Career](https://bsjuuny.github.io/techblog/about/)
 - Email: [krfrontend@gmail.com](mailto:krfrontend@gmail.com)
