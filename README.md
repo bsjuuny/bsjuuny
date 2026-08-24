@@ -24,12 +24,12 @@ I am a frontend and UI developer with over 16 years of experience. Drawing on a 
 
 ## Featured Projects
 
-- [BizRadar](https://github.com/bsjuuny/bizradar) — A B2B SaaS platform for discovering and analyzing public-sector IT opportunities and government support programs
-- [IPO Master](https://github.com/bsjuuny/ipo-master) — A dashboard for Korean IPO schedules, subscription data, and post-listing performance
-- [Today Signal](https://github.com/bsjuuny/today-signal) — Korean stock monitoring signals based on institutional and foreign investor flows and trading volume
-- [FX Signal](https://github.com/bsjuuny/forex-signal) — A major-currency exchange rate signal dashboard based on technical indicators
-- [Market Checker](https://github.com/bsjuuny/market-checker) — A pre-market checklist for Korean equities using global market and macroeconomic indicators
 - [AI Dispatcher](https://github.com/bsjuuny/portable-ai-dispatcher) — A CLI control plane that routes coding tasks between Claude Code, Codex, and local LLMs (Ollama/llama.cpp), verifying every change with real build/test/lint and independent AI review before applying it
+- [BizRadar](https://github.com/bsjuuny/bizradar) — A B2B SaaS platform for discovering and analyzing public-sector IT opportunities and government support programs
+- [Market Checker](https://github.com/bsjuuny/market-checker) — A pre-market checklist for Korean equities using global market and macroeconomic indicators
+- [Blog Editor Bot](https://github.com/bsjuuny/blog-editor-bot) — An automated editorial pipeline that collects daily economy/shopping news and drafts AI-generated blog post candidates
+- [Shortform Radar](https://github.com/bsjuuny/shortform-radar) — A real-time YouTube Shorts dashboard for search, filtering, and viral-score ranking
+- [AnimeFinder](https://github.com/bsjuuny/anime-finder) — A trending/rating/upcoming anime discovery service built on the AniList and TMDB APIs
 
 ## Tech Stack
 
