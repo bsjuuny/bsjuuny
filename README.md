@@ -22,6 +22,11 @@ I am a frontend and UI developer with over 16 years of experience. Drawing on a 
 
 [View detailed work history and projects](https://bsjuuny.github.io/techblog/about/)
 
+## Technical Writing
+
+- [Frontend Engineering Notes](https://bsjuuny.github.io/techblog/) — Practical notes on frontend architecture, UI engineering, production troubleshooting, and AI-assisted development
+- [GitHub Radar](https://bsjuuny.github.io/techblog/github-radar/) — A weekly, data-driven roundup of newly emerging open-source projects with activity, license, and diversity checks
+
 ## Featured Projects
 
 - [AI Dispatcher](https://github.com/bsjuuny/portable-ai-dispatcher) — A CLI control plane that routes coding tasks between Claude Code, Codex, and local LLMs (Ollama/llama.cpp), verifying every change with real build/test/lint and independent AI review before applying it
