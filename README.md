@@ -29,6 +29,8 @@ I am a frontend and UI developer with over 16 years of experience. Drawing on a 
 
 ## Featured Projects
 
+- [HR Chatbot](https://github.com/bsjuuny/hr-chatbot) — A Next.js assistant for searching HR policies and internal documents, with document ingestion, pgvector retrieval, multi-provider AI adapters, SSE streaming and resume, feedback, and admin tools
+- [Harness History](https://github.com/bsjuuny/harness-history) — A shared handbook of skills, rules, and integration conventions that keeps Claude, Codex, Grok, and human contributors aligned across repositories and sessions
 - [AI Dispatcher](https://github.com/bsjuuny/portable-ai-dispatcher) — A CLI control plane that routes coding tasks between Claude Code, Codex, and local LLMs (Ollama/llama.cpp), verifying every change with real build/test/lint and independent AI review before applying it
 - [BizRadar](https://github.com/bsjuuny/bizradar) — A B2B SaaS platform for discovering and analyzing public-sector IT opportunities and government support programs
 - [Market Checker](https://github.com/bsjuuny/market-checker) — A pre-market checklist for Korean equities using global market and macroeconomic indicators
