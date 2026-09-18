@@ -33,14 +33,22 @@ I am a frontend and UI developer with over 16 years of experience. Drawing on a 
 - [Harness History](https://github.com/bsjuuny/harness-history) — A shared handbook of skills, rules, and integration conventions that keeps Claude, Codex, Grok, and human contributors aligned across repositories and sessions
 - [AI Dispatcher](https://github.com/bsjuuny/portable-ai-dispatcher) — A CLI control plane that routes coding tasks between Claude Code, Codex, and local LLMs (Ollama/llama.cpp), verifying every change with real build/test/lint and independent AI review before applying it
 - [BizRadar](https://github.com/bsjuuny/bizradar) — A B2B SaaS platform for discovering and analyzing public-sector IT opportunities and government support programs
+- [Today Signal](https://github.com/bsjuuny/today-signal) — A Next.js dashboard that derives daily Korean-equity observation signals from institutional and foreign flows, volume, and market conditions, with historical outcome verification and automated deployment
+- [IPO Master](https://github.com/bsjuuny/ipo-master) — A data dashboard for Korean IPO schedules, book-building and subscription metrics, and post-listing performance, backed by automated collection, aggregation, and deployment workflows
 - [Market Checker](https://github.com/bsjuuny/market-checker) — A pre-market checklist for Korean equities using global market and macroeconomic indicators
 - [Blog Editor Bot](https://github.com/bsjuuny/blog-editor-bot) — An automated editorial pipeline that collects daily economy/shopping news and drafts AI-generated blog post candidates
-- [Shortform Radar](https://github.com/bsjuuny/shortform-radar) — A real-time YouTube Shorts dashboard for search, filtering, and viral-score ranking
 - [AnimeFinder](https://github.com/bsjuuny/anime-finder) — A trending/rating/upcoming anime discovery service built on the AniList and TMDB APIs
+
+## Live Products
+
+- [Culture Hub](https://bsjuuny2026.mycafe24.com/culturehub/) — A discovery and course-planning service for cultural venues, exhibitions, performances, restaurants, cafés, and family activities in Seoul
+- [OnBid Tracker](https://bsjuuny2026.mycafe24.com/onbid/) — A daily-updated explorer for Korean public auction listings with regional, property-type, and appraisal-price filters
+- [YourPick](https://bsjuuny2026.mycafe24.com/yourpick/) — A comparison service for Korean kindergarten and childcare-center disclosure data
+- [GongjiTalk](https://bsjuuny2026.mycafe24.com/gongjitalk/) — A browser-first tool that turns childcare notices into dates, materials, parent tasks, and reusable checklists
 
 ## Tech Stack
 
-`React` `TypeScript` `Next.js` `JavaScript` `Vue` `Angular` `Java` `Spring Boot` `GraphQL` `REST API`
+`React` `TypeScript` `Next.js` `JavaScript` `Vue` `Angular` `Tailwind CSS` `Python` `Java` `Spring Boot` `PostgreSQL` `GraphQL` `REST API` `GitHub Actions`
 
 ## Contact
 
