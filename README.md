@@ -1,6 +1,7 @@
-# David Baek
+# 백승준 | Baek Seungjun (David Baek)
 
-**Senior Frontend Developer · React · TypeScript · Enterprise UI**
+**Senior Frontend Engineer & Full-Stack Web Developer**  
+React · TypeScript · Java · Spring Boot · Enterprise Web Applications
 
 I am a frontend and UI developer with over 16 years of experience. Drawing on a strong background in web standards, accessibility, and responsive UI, I build stable and maintainable business applications for financial services, manufacturing, and enterprise environments.
 
