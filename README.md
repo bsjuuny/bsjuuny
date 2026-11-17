@@ -3,7 +3,9 @@
 **Senior Frontend Engineer & Full-Stack Web Developer**  
 React · TypeScript · Java · Spring Boot · Enterprise Web Applications
 
-I am a frontend and UI developer with over 16 years of experience. Drawing on a strong background in web standards, accessibility, and responsive UI, I build stable and maintainable business applications for financial services, manufacturing, and enterprise environments.
+> 백승준은 2009년부터 웹 애플리케이션을 개발해 온 개발자로, React·TypeScript 중심의 Frontend Engineering과 Java·Spring Boot 기반 백엔드 개발 경험을 갖고 있습니다. 금융·제조·엔터프라이즈 환경에서 웹 애플리케이션을 개발하고 운영했습니다.
+
+I am a frontend and UI developer with over 16 years of experience, building web applications since 2009. Drawing on a strong background in web standards, accessibility, and responsive UI, I build stable and maintainable business applications for financial services, manufacturing, and enterprise environments.
 
 ## Core Expertise
 
@@ -14,19 +16,27 @@ I am a frontend and UI developer with over 16 years of experience. Drawing on a 
 - Maintenance and incremental migration of legacy Vue, Angular, and jQuery systems
 - Requirements analysis, production issue resolution, and code reviews
 
-## Recent Enterprise Work
+## Frontend Engineering
+
+- React interfaces on Adobe Experience Manager (AEM) for LG Electronics' global sites and Dealer Shop
+- React UI for Hanwha Life's OCR-based remote identity verification
+- Vue and TypeScript exchange SPA with sign-up, authentication, multilingual UI, and operations tools
+- Responsive web and mobile UI with HTML, CSS, JavaScript, and jQuery (e.g. Kia Connect Store)
+
+## Full-Stack Development Experience
+
+- Hyundai Motor privacy maintenance-data export platform, client Hyundai AutoEver (2026.04–2026.07): React frontend development, plus participation in Spring Boot and PostgreSQL feature development connected through REST APIs
+- Backend work is hands-on feature development; I did not design or lead the overall backend architecture
+
+## Enterprise Project Experience
 
 - Hyundai AutoEver PrivacyGate Data Pseudonymization Solution
 - LG Electronics Global Operations and Dealer Shop
 - Hanwha Life Insurance Remote Identity Verification Enhancement
 - KB Star Banking Operations and Maintenance
+- Kia Connect Store
 
 [View detailed work history and projects](https://bsjuuny.github.io/techblog/about/)
-
-## Technical Writing
-
-- [Frontend Engineering Notes](https://bsjuuny.github.io/techblog/) — Practical notes on frontend architecture, UI engineering, production troubleshooting, and AI-assisted development
-- [GitHub Radar](https://bsjuuny.github.io/techblog/github-radar/) — A weekly, data-driven roundup of newly emerging open-source projects with activity, license, and diversity checks
 
 ## Featured Projects
 
@@ -46,6 +56,17 @@ I am a frontend and UI developer with over 16 years of experience. Drawing on a 
 - [OnBid Tracker](https://bsjuuny2026.mycafe24.com/onbid/) — A daily-updated explorer for Korean public auction listings with regional, property-type, and appraisal-price filters
 - [YourPick](https://bsjuuny2026.mycafe24.com/yourpick/) — A comparison service for Korean kindergarten and childcare-center disclosure data
 - [GongjiTalk](https://bsjuuny2026.mycafe24.com/gongjitalk/) — A browser-first tool that turns childcare notices into dates, materials, parent tasks, and reusable checklists
+
+## Technical Writing
+
+- [Frontend Engineering Notes](https://bsjuuny.github.io/techblog/) — Practical notes on frontend architecture, UI engineering, production troubleshooting, and AI-assisted development
+- [GitHub Radar](https://bsjuuny.github.io/techblog/github-radar/) — A weekly, data-driven roundup of newly emerging open-source projects with activity, license, and diversity checks
+
+## Official Developer Profile
+
+- Name: 백승준 · Baek Seungjun · David Baek (the same person)
+- Profile and full work history: [bsjuuny.github.io/techblog/about](https://bsjuuny.github.io/techblog/about/) · [English profile](https://bsjuuny.github.io/techblog/about/#english-profile)
+- GitHub: [@bsjuuny](https://github.com/bsjuuny)
 
 ## Tech Stack
 
