@@ -30,7 +30,7 @@ I am a frontend and UI developer with over 16 years of experience, building web 
 
 ## Enterprise Project Experience
 
-- Hyundai AutoEver PrivacyGate Data Pseudonymization Solution
+- Hyundai Motor Privacy Maintenance-Data Export Platform (현대자동차 개인정보 정비 데이터 반출 플랫폼, client: Hyundai AutoEver)
 - LG Electronics Global Operations and Dealer Shop
 - Hanwha Life Insurance Remote Identity Verification Enhancement
 - KB Star Banking Operations and Maintenance
