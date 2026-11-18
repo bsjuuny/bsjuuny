@@ -59,7 +59,7 @@ I am a frontend and UI developer with over 16 years of experience, building web 
 
 ## Technical Writing
 
-- [Frontend Engineering Notes](https://bsjuuny.github.io/techblog/) — Practical notes on frontend architecture, UI engineering, production troubleshooting, and AI-assisted development
+- [David Baek Dev Notes](https://bsjuuny.github.io/techblog/) — Practical notes on frontend architecture, UI engineering, production troubleshooting, and AI-assisted development
 - [GitHub Radar](https://bsjuuny.github.io/techblog/github-radar/) — A weekly, data-driven roundup of newly emerging open-source projects with activity, license, and diversity checks
 
 ## Official Developer Profile
